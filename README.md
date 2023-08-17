@@ -34,18 +34,8 @@ Here are some ideas to get you started:
 <a href="https://www.salesforce.com/trailblazer/sanketghodake" target="_blank" rel="noopener noreferrer"><img align="center" src="https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" alt="sanketghodake" height="60" width="80" /></a>
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----       
+<!--- Created using GitHub Profile README Generator
 <p align="right">
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://rahuldkjain.github.io/gh-profile-readme-generator/static/mdg-040f54e2f6c858e0a3dcf568c3f2b6f1.png" alt="Created using GitHub Profile README Generator" height="30" width="40" /></a>
 </p>
+--->
