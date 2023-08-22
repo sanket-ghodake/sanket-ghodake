@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 <a href="https://www.salesforce.com/trailblazer/sanketghodake" target="_blank" rel="noopener noreferrer"><img align="center" src="https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" alt="sanketghodake" height="60" width="80" /></a>
 </p>
 
+<!---
+<a aria-label="Chat on WhatsApp" href="https://wa.me/1XXXXXXXXXX"> <img alt="Chat on WhatsApp" src="https://scontent.fpnq20-1.fna.fbcdn.net/v/t39.8562-6/302524815_3448899778679909_2843186333341006023_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6825c5&_nc_ohc=ykTAj1G-CgEAX8tZe4i&_nc_ht=scontent.fpnq20-1.fna&oh=00_AfCO-n2vlOCKc4Purj4L8DRFs0Bd3hxqpahqJ-vznGOj7Q&oe=64EA1E0F" />
+<a />
+--->
+
 <!--- Created using GitHub Profile README Generator
 <p align="right">
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://rahuldkjain.github.io/gh-profile-readme-generator/static/mdg-040f54e2f6c858e0a3dcf568c3f2b6f1.png" alt="Created using GitHub Profile README Generator" height="30" width="40" /></a>
