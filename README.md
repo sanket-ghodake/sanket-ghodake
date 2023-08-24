@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/sanketghodake22" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanketghodake22" height="60" width="80" /></a>
 </p>
 
-<a href="https://www.hackerrank.com/sanketghodke03" target="_blank" rel="noopener noreferrer"><img align="center" src="images/hackerrank_logo.png" alt="sanketghodke03" height="110"  /></a>
+<a href="https://www.hackerrank.com/sanketghodke03" target="_blank" rel="noopener noreferrer"><img align="center" src="images/hackerrank_logo.png" alt="sanketghodke03" height="120"  /></a>
 <a href="https://www.leetcode.com/sanket_ghodake" target="_blank" rel="noopener noreferrer"><img align="center" src="images/logo-leetcode.png" alt="sanket_ghodake" height="100"  /></a>
 <a href="https://www.hackerearth.com/@sanketghodke03" target="_blank" rel="noopener noreferrer"><img align="center" src="images/hackerearth-logo.png" alt="@sanketghodke03" height="80"  /></a>
-<a href="https://www.salesforce.com/trailblazer/sanketghodake" target="_blank" rel="noopener noreferrer"><img align="center" src="images/salesforce-logo.png" alt="sanketghodake" height="100"  /></a>
+<a href="https://www.salesforce.com/trailblazer/sanketghodake" target="_blank" rel="noopener noreferrer"><img align="center" src="images/salesforce-logo.png" alt="sanketghodake" height="110"  /></a>
 
 <!---
 <a aria-label="Chat on WhatsApp" href="https://wa.me/1XXXXXXXXXX"> <img alt="Chat on WhatsApp" src="https://scontent.fpnq20-1.fna.fbcdn.net/v/t39.8562-6/302524815_3448899778679909_2843186333341006023_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6825c5&_nc_ohc=ykTAj1G-CgEAX8tZe4i&_nc_ht=scontent.fpnq20-1.fna&oh=00_AfCO-n2vlOCKc4Purj4L8DRFs0Bd3hxqpahqJ-vznGOj7Q&oe=64EA1E0F" />
